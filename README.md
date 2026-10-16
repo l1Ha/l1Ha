@@ -1,15 +1,15 @@
 <div align="center">
 
-# Hi there, I'm LI Hao (李浩) 👋
+# Hi there, I'm LI Hao 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=620&lines=AI+%26+Multimodal+Interaction+System+Engineer;Quantum+Dynamics+%26+HPC+Researcher;Passionate+Builder+of+Next-Gen+Productivity+Tools;Bridging+Physical+Computing+%26+Modern+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=680&lines=Quantum+Dynamics+%26+AMO+Physics+Researcher;HPC+%26+Scientific+Computing+Engineer+(Modern+Fortran+%2B+Python);Developer+of+QGM+(QuantumGeneralModule)+%26+AQD;Curious+Builder+of+Next-Gen+Tech+%26+Tools)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="mailto:12331061@mail.sustech.edu.cn">
     <img src="https://img.shields.io/badge/Email-12331061%40mail.sustech.edu.cn-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Email" />
   </a>
-  <img src="https://img.shields.io/badge/Location-Shenzhen%2C%20China-06B6D4?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
   <img src="https://img.shields.io/badge/Education-SUSTech-8B5CF6?style=flat-square&logo=academia&logoColor=white" alt="SUSTech" />
+  <img src="https://img.shields.io/badge/Location-Shenzhen%2C%20China-06B6D4?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-10B981?style=flat-square&logo=gitbook&logoColor=white" alt="Open to Work" />
 </p>
 
@@ -17,89 +17,86 @@
 
 ---
 
-## 👨‍💻 关于我 (About Me)
+## 🔬 专业定位 (Professional Overview)
 
-我是一名兼具**前沿 AI 与多模态人机交互（HCI）系统工程力**与**量子物理/超算科学计算（HPC & AI for Science）深厚底蕴**的复合型创新研发工程师 / 研究员，目前就读于**南方科技大学 (SUSTech)**。
+我是一名主攻**量子动力学（Quantum Dynamics）与高性能科学计算（Scientific Computing / HPC）**的计算物理研究人员，目前在**南方科技大学 (SUSTech)** 开展研究。
 
-- 🧠 **双核驱动的技术底色**：
-  - **前沿 AI & 多模态交互**：自主设计从视觉注视、微表情认知、3D 手势识别、语音韵律到异步时间窗高斯对齐、意图状态机与全平台工具调度的端到端人机自然交互架构。
-  - **超算与科学计算 (AI for Science)**：精通量子动力学（Sinc-DVR、Split-Operator、HHG、非绝热动力学）与从头算势能面（PES）机器学习拟合，具备大型 HPC 超算集群（Slurm / MPI 并行优化）底层开发经验。
-- 📱 **工业级全栈工程交付**：
-  - 从底层的跨平台独立原生二进制编译（Linux ELF）、Android 原生现代应用架构（Kotlin + Jetpack Compose + Media3）、Windows 便携分发包到零依赖轻量跨端 Web HUD，具备独立完成**产品架构、算法落地、自动化测试与跨端全平台发行**的完整闭环能力。
-- 🛡️ **对工程质量保持敬畏**：
-  - 核心开源项目自动化测试覆盖率高（400+ 项测试全绿），重视系统安全与边界防御（全链路防御代码注入、越权与目录穿越），追求亚毫秒级性能与极致交互流畅感。
+- ⚛️ **核心主业：量子物理与前沿数值计算**
+  - **研究领域**：原子分子与光物理 (AMO Physics)、量子波包时间演化动力学 (Wavepacket Dynamics)、量子反应散射 (Reactive Scattering)、强场超快光学 (HHG, Ultrafast Optics) 及非绝热耦合动力学 (Non-adiabatic Dynamics)；
+  - **旗舰成果**：自主研发量子动力学底层算法通用库 **QGM (QuantumGeneralModule)** 与势能面自动化拟合系统 **AQD (AutoQuantumDynamics / AutoQuantumPES)**；
+  - **算法与仿真**：深入掌握并独立实现 Sinc-DVR (离散变量表象法)、Split-Operator 分步算符谱方法、虚时间演化基态求解、吸收势边界 (CAP/PML) 及精确量子反应散射矩阵求解；
+  - **AI for Science**：精通高维势能面 (PES) 从头算计算流程 (PySCF / xTB / ASE) 与神经网络机器势能面高精度拟合，具备大型 Slurm 超算集群高通量任务编排与并行加速经验。
+
+- 💡 **业余探索：极客好奇心与软件工程爱好 (Side Interests)**
+  - 在主业科研之余，我保持着对计算机底层与前沿技术的充沛热情，利用业余时间探索了**未来多模态自然人机交互核心** (`FutureWork`)、**现代 Android 应用架构** (`LunaMusic`)、**新型动态视频格式** (`DynamicsVideo`) 等跨界开源项目，具备完整的跨平台工程落地与自动化构建交付能力。
 
 ---
 
-## 🛠️ 核心技能图谱 (Skills & Competencies)
+## 🌟 核心科研代表作 (Flagship Scientific Projects)
+
+### 1. 🔬 [QGM (QuantumGeneralModule)](https://github.com/l1Ha/QuantumGeneralModule) · 现代量子动力学通用算法库
+> **基于 Modern Fortran 2008 与 Python 构建的高性能量子动力学演化与 AMO 物理算法库**
+
+- **理论与算符实现**：涵盖 Sinc-DVR 表象变换、Split-Operator 时间传播算符、虚时间传播基态求解、双色/超短脉冲强场高次谐波产生 (HHG)、多势能面非绝热跃迁动力学；
+- **工业级严谨度**：代码架构严格模块化，配套完善的测试驱动开发（TDD）体系，**390+ 项自动化物理与数值测试 100% 全绿通过**；
+- **文献追踪完备**：详细对齐 PRL、PRA、RMP、Science、Nature 等 40 余篇经典与前沿文献算符基准。
+
+---
+
+### 2. 🧬 [AQD (AutoQuantumDynamics)](https://github.com/l1Ha/AutoQuantumDynamics) & [AutoQuantumPES](https://github.com/l1Ha/AutoQuantumPES) · 自动化量子动力学与势能面拟合系统
+> **电子结构从头算 → 势能面扫描工作流 → 数据集主动学习 → 神经网络拟合的全栈闭环**
+
+- **多后端计算引擎集成**：原生兼容并调度 PySCF、xTB 与 ASE，支持闭壳层/开壳层分子从头算单点能、平衡几何优化与全振动频率分析；
+- **动力学路径与光谱特性**：支持任意内坐标网格扫描、NEB 过渡态搜索、IRC 反应路径追踪以及激发态 TD-DFT 与自旋-轨道耦合 (SOC) 效应计算；
+- **AI for Science**：设计神经网络势能面自动拟合与误差主动收敛流水线，内置 Slurm 超算作业模板与计算收敛证据链。
+
+---
+
+### 3. 🎯 [ABC_S](https://github.com/l1Ha/ABC_S) & [molscat](https://github.com/l1Ha/molscat) · 量子反应散射模拟
+> **原子-双原子碰撞与化学反应量子态-态散射动力学演化**
+
+- 采用现代 Fortran 重构并优化经典 ABC 量子反应散射计算架构，引入紧致动力学表象；
+- 实现超精细能级散射矩阵与态态微分反应截面计算，针对大规模矩阵对角化与坐标变换实施内存局部性优化。
+
+---
+
+## 🛠️ 技术矩阵 (Tech Stack Radar)
 
 ```
-  [ 前沿 AI & 多模态 HCI ] ──── [ 高性能计算 HPC & AI4S ] ──── [ 现代移动端与系统工程 ]
-  • OpenCV (YuNet DNN)          • Modern Fortran (2008/18)      • Android (Kotlin / Compose)
-  • 视觉视线注视追踪 (Gaze)      • MPI & OpenMP 并行计算          • Media3 / Material You 架构
-  • FACS 微表情与注意力分析      • Slurm 集群任务调度 & 优化      • Linux ELF 原生应用打包
-  • 3D 手势几何分析 (YCrCb)     • 量子动力学 (Wavepacket/HHG)   • Windows 便携式分发构建
-  • 异步高斯时序窗口对齐         • 势能面 (PES) 拟合 (PySCF/xTB) • 轻量 Web HUD / MCP 协议
+  [ 核心主业 · 科学计算与量子物理 ] ─────── [ 业余探索 · 前沿软件工程与 AI ]
+  • Modern Fortran (2008 / 2018)            • 多模态人机交互 (Visual/Gaze/FACS/Speech)
+  • Python (NumPy / SciPy / SymPy)          • OpenCV (DNN YuNet / 几何缺陷分析)
+  • MPI & OpenMP 节点级/分布式并行加速       • 现代 Android (Kotlin / Jetpack Compose / Media3)
+  • Slurm 超算作业调度系统 & 集群优化       • 跨平台独立分发 (Linux ELF / Android APK / Win)
+  • 量子波包传播 (Split-Operator, DVR)     • 状态机与安全沙盒防御机制
+  • 从头算化学与势能面 (PySCF / xTB / ASE)  • 异步高斯时序窗口对齐
 ```
 
-| 维度 | 掌握技能与工具链 |
+| 领域 | 核心技能与主要工具 |
 | :--- | :--- |
-| **编程语言** | **Python** (高频/高级), **Modern Fortran** (2008/2018 科学计算), **Kotlin** (Android 现代架构), **C/C++**, **JavaScript/TypeScript**, **Bash Shell**, **SQL** |
-| **人工智能 & 计算机视觉** | OpenCV (DNN 人脸检测、Haar 级联族、CLAHE 自适应增强), FACS 动作单元分析, 凸包缺陷手势分类, 语音韵律流式处理, 语义向量检索 (Embedding & Cosine Similarity) |
-| **科学计算 & AI for Science** | PySCF, xTB, ASE, NumPy, SciPy, Sinc-DVR, Split-Operator, 分子/原子反应散射计算 (ABC, Molscat), 势能面神经网络拟合 |
-| **系统架构与韧性工程** | 声明式能力抽象 (Capability Registry), 有限状态机 (FSM), 动态控制流执行, 指数退避重试 (Exponential Backoff), 熔断器 (Circuit Breaker), 撤销快照栈 (Undo Manager), 安全沙盒 |
-| **平台与 DevOps 工具** | Linux / Ubuntu, Windows 10/11, Android SDK (aapt2/r8/d8), Git & GitHub Actions CI/CD 矩阵发布, PyInstaller, Docker |
+| **科学计算语言** | **Modern Fortran** (2008/2018，长期密集使用，工程架构严谨), **Python 3** (算法实现、数据流水线与高通量编排), **Bash/Shell** |
+| **量子动力学与物理模拟** | Sinc-DVR, Split-Operator, 高次谐波产生 (HHG), 非绝热演化 (Non-adiabatic Transition), 散射理论 (ABC Scattering, Molscat), 光电离/光解离模拟 |
+| **计算化学与 AI4S** | 势能面 (PES) 扫描与优化, NEB (微动弹性带过渡态搜索), IRC, 激发态与自旋-轨道耦合 (SOC), 神经网络拟合势 (NN PES) |
+| **高性能计算 (HPC)** | MPI 进程级并行, OpenMP 共享内存加速, Intel oneAPI / MKL / FFTW 数学库, Linux 超算集群 (Slurm) 自动化批处理 |
+| **业余探索栈 (Interests)** | Kotlin (Android Jetpack Compose, Media3), OpenCV (DNN 人脸/视线/手势追踪), 跨平台打包 (PyInstaller ELF / APK 签名构建) |
 
 ---
 
-## 🌟 旗舰开源代表作 (Featured Projects)
+## 💡 个人业余兴趣与技术探索 (Side Projects & Explorations)
 
-### 1. 🚀 [FutureWork](https://github.com/l1Ha/FutureWork) · 全平台多模态自然交互生产力核心
-> **面向未来人机交互的革命性范式：让人类用语言、手势、微表情与视线注视直接指挥生产力工具**
+在主业科研之余，我常利用业余时间把玩各种好玩的前沿技术，探索人机交互、移动应用与多媒体领域的可能性：
 
-- **多模态感知流**：接入真实摄像头与视频流，结合轻量 **YuNet DNN** 实现 CPU 实时人脸与注视追踪、FACS 表情认知负荷分析、3D 手势几何分析及点头/摇头确认检测；
-- **异步时间窗口高斯对齐**：采用高斯核时间衰减滑动缓冲模型，消除各物理硬件（摄像头 30fps、麦克风 VAD、眼动仪）之间的传输延迟与采样率异步错位；
-- **自适应认知引擎**：中英双语双通道意图匹配、动态条件控制流（`如果...就...否则...`）、指代消解与反悔纠正（`不对，应该是 X` 槽位智能回填）；
-- **跨会话长期情境记忆**：引入**艾宾浩斯遗忘曲线（Ebbinghaus decay）**与访问频次加权激活评分，跨进程、跨会话秒级唤醒“刚才那个文件”；
-- **安全与全平台发行**：内置多层黑名单防御与状态快照撤销；提供 **Android APK**、**Linux 独立 ELF**、**Windows 便携发行版**及 Web HUD 控制台，单项目 **408 项自动化测试 100% 通过**，端到端 P95 延迟维持在亚毫秒级（~0.34ms）。
-
----
-
-### 2. ⚛️ [QuantumGeneralModule](https://github.com/l1Ha/QuantumGeneralModule) & [AutoQuantumPES](https://github.com/l1Ha/AutoQuantumPES) · 量子动力学与科学计算算法库
-> **凝聚态物理、原子分子光物理（AMO Physics）高精度动力学演化与 AI for Science 势能面拟合**
-
-- 基于 **Modern Fortran 2008 & Python** 构建，实现 Sinc-DVR、Split-Operator 时间演化、高次谐波产生 (HHG) 及超快非绝热动力学算法；
-- 集成 PySCF / xTB / ASE 计算化学后端，支持平衡几何优化、过渡态扫描、NEB / IRC 计算及激发态自旋-轨道耦合 (SOC)；
-- 提供神经网络 (NN) 势能面机器学习高精度拟合与大规模 Slurm 超算任务自动化编排。
+| 项目 | 领域方向 | 亮点与技术特性 |
+| :--- | :--- | :--- |
+| 🚀 [**FutureWork**](https://github.com/l1Ha/FutureWork) | **多模态人机自然交互** | 自主研发用语音、3D手势、FACS面部微表情、视线注视直接指挥生产力工具的核心系统；实现异步高斯时序对齐、条件流执行、长期记忆持久化，支持 Android APK、Linux 独立二进制与 Windows 全平台分发（**408 项测试全绿**）。 |
+| 🌙 [**LunaMusic**](https://github.com/l1Ha/LunaMusic) | **现代 Android 应用** | 基于 Kotlin + Jetpack Compose + Media3 (ExoPlayer) 架构打造的本地高颜值音乐播放器，遵循 Material You 响应式动态主题，包含专业音频均衡器与歌词系统。 |
+| 🎬 [**DynamicsVideo**](https://github.com/l1Ha/DynamicsVideo) | **动态视频多媒体** | 探索局部差分像素刷新与自适应可变帧率（VFR）的轻量视频封装格式与播放器生态。 |
+| 📚 [**FutureTxt**](https://github.com/l1Ha/FutureTxt) | **知识图谱与长文生成** | 构筑 8 阶段自动化结构创作流，验证产出 20 章架构严密的硬核科幻小说《意识纪元》全本。 |
+| ⚡ [**filex**](https://github.com/l1Ha/filex) | **跨端轻量网络工具** | 纯静态极简局域网跨设备文件互传 Web 应用，手机与电脑浏览器秒级互通。 |
 
 ---
 
-### 3. 🌙 [LunaMusic](https://github.com/l1Ha/LunaMusic) · 现代 Android 音乐播放器
-> **基于 Google 现代 Android 架构指南（Modern Android Development）打造的高颜值本地播放器**
-
-- 采用 **Kotlin + Jetpack Compose** 全声明式 UI 构建，遵循 Material You (Material 3) 动态色彩系统；
-- 底层接入 **AndroidX Media3 (ExoPlayer)**，支持高质量专业音频回放、内置多段均衡器调节、歌词同步滚动与睡眠定时器；
-- 遵循单向数据流（UDF）与响应式状态驱动架构，具有极佳的代码可读性与平滑交互体验。
-
----
-
-### 4. 🎬 [DynamicsVideo](https://github.com/l1Ha/DynamicsVideo) · 动态视频格式生态 (DyV)
-> **探索轻量级局部刷新、可变帧率（VFR）的未来多媒体生态**
-
-- 针对低带宽与高交互场景设计新型动态视频封装机制，支持智能局部像素差分与自适应帧率刷新；
-- 配套提供跨平台转换工具链、Web 轻量播放器与完善的 CI/CD 流程，采用健全的双许可商业化开源架构。
-
----
-
-### 5. 📚 [FutureTxt](https://github.com/l1Ha/FutureTxt) · 长文本智能创作流水线
-> **面向复杂知识图谱与创意叙事的内容生成工作流**
-
-- 包含 8 阶段自动化结构创作流水线（角色设定、世界观构筑、脉络推演、章节生成与前后一致性校验）；
-- 成功验证产出长达 20 章的高密度硬核科幻小说《意识纪元》全书文本。
-
----
-
-## 📊 GitHub 活跃度与技术统计 (Stats)
+## 📊 GitHub 研发活跃度 (Activity & Stats)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=l1Ha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
@@ -112,27 +109,28 @@
 
 ---
 
-## 🎯 求职意向与个人特质 (Career Goals & Culture Fit)
+## 🎯 意向与合作方向 (Research Interests & Career Focus)
 
-- 💼 **意向岗位**：
-  - **AI 算法 / 系统研发工程师**（多模态感知、具身智能人机交互、Agent 智能体系统）
-  - **科学计算 / AI for Science 研究员 / 工程师**（HPC 高性能计算、量子计算模拟、应用物理数学算法）
-  - **跨平台基础软件 / 核心系统工程师**（Linux / Android / C++ / Python 高性能后端）
-- 📍 **意向地点**：深圳、北京、上海、杭州、远程办公 (Remote)
-- 💡 **工作态度**：
-  - **深入本质，不惧底层**：习惯探究代码底层逻辑与物理模型，能啃硬骨头；
-  - **全栈全局观**：既能做前沿算法理论推导，又能一站式打包发布全平台生产级应用；
-  - **积极敏捷，高效交付**：擅长将抽象需求转化为高可测、高扩展、优雅健壮的工程落地。
+- 🔬 **主要意向方向**：
+  - **量子计算 / 量子动力学演化仿真研究员** (Quantum Dynamics & Simulation Researcher)
+  - **科学计算与高性能计算 (HPC) 工程师** (High-Performance Scientific Computing)
+  - **AI for Science (AI4S) 算法研发** (物理神经网络、势能面与分子模拟建模)
+  - **基础软件与前沿技术攻坚工程师**
+- 📍 **地点偏好**：深圳、北京、上海、杭州、远程合作 (Remote)
+- 🤝 **特质总结**：
+  - **深厚数理功底 + 扎实代码力**：能推导复杂物理公式，能写出测试严谨、规范优雅的底层高性能代码；
+  - **极客自驱力**：业余时间自发打磨出多项工程完备的跨界开源产品，学习与技术迁移能力极强；
+  - **求真务实**：注重实际验证数据与证据链，拒绝浮夸宣传。
 
 ---
 
 <div align="center">
 
-### 📫 期待与优秀的团队同行，共同创造触碰未来的产品与科技！
+### 📫 期待与物理学、科学计算或前沿技术领域的同行深入交流！
 
 [![Email](https://img.shields.io/badge/Email-12331061%40mail.sustech.edu.cn-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:12331061@mail.sustech.edu.cn)
 [![GitHub](https://img.shields.io/badge/GitHub-l1Ha-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/l1Ha)
 
-*Copyright © 2026 LI Hao. Built with precision and passion.*
+*Copyright © 2026 LI Hao. Driven by physics, crafted with code.*
 
 </div>
