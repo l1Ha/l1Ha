@@ -2,13 +2,14 @@
 
 # Hi there, I'm LI Hao 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=720&lines=Quantum+Dynamics+%26+AI+for+Science+(AI4S)+Researcher;Developer+of+QGM+(QuantumGeneralModule)+%26+AQD;HPC+%26+Scientific+Computing+Engineer+(Modern+Fortran+%2B+Python);Passionate+Full-Stack+Maker+(FutureWork%2C+Android%2C+Systems))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=760&lines=Ph.D.+Candidate+in+Quantum+Dynamics+%26+AI+for+Science+(AI4S);HPC+%26+Scientific+Computing+Engineer+(Modern+Fortran+%2B+Python);Developer+of+QGM+(QuantumGeneralModule)+%26+AQD;Passionate+Full-Stack+Maker+(FutureWork%2C+Android%2C+Systems))](https://git.io/typing-svg)
 
 <p align="center">
   <a href="mailto:12331061@mail.sustech.edu.cn">
     <img src="https://img.shields.io/badge/Email-12331061%40mail.sustech.edu.cn-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Email" />
   </a>
-  <img src="https://img.shields.io/badge/Education-SUSTech-8B5CF6?style=flat-square&logo=academia&logoColor=white" alt="SUSTech" />
+  <img src="https://img.shields.io/badge/Degree-Ph.D.%20Candidate-purple?style=flat-square&logo=academia&logoColor=white" alt="Degree" />
+  <img src="https://img.shields.io/badge/University-SUSTech-8B5CF6?style=flat-square&logo=academia&logoColor=white" alt="SUSTech" />
   <img src="https://img.shields.io/badge/Focus-Quantum%20Dynamics%20%7C%20AI4S-06B6D4?style=flat-square&logo=physics&logoColor=white" alt="Focus" />
   <img src="https://img.shields.io/badge/Location-Shenzhen%2C%20China-3B82F6?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-10B981?style=flat-square&logo=gitbook&logoColor=white" alt="Open to Work" />
@@ -20,15 +21,15 @@
 
 ## 🔬 专业定位 (Professional Overview)
 
-我是一名主攻**量子动力学（Quantum Dynamics）与科学智能（AI for Science / AI4S）**的计算物理研究人员，目前在**南方科技大学 (SUSTech)** 开展研究。
+我是一名在**南方科技大学 (SUSTech)** 攻读的**博士研究生 (Ph.D. Candidate)**，主要研究方向为**量子动力学（Quantum Dynamics）与科学智能（AI for Science / AI4S）**。
 
 - ⚛️ **核心主业：量子动力学演化与 AI for Science 深度交叉**
-  - **物理主航道**：专注于原子分子与光物理 (AMO Physics)、微观体系量子波包时间演化动力学 (Wavepacket Dynamics)、量子反应散射 (Reactive Scattering)、强场超快光学 (HHG, Ultrafast Optics) 与非绝热耦合动力学 (Non-adiabatic Dynamics)；
+  - **学术与研究阶段**：博士在读期间主攻计算物理与前沿量子算法研发，专注于原子分子与光物理 (AMO Physics)、微观体系量子波包时间演化动力学 (Wavepacket Dynamics)、量子反应散射 (Reactive Scattering)、强场超快光学 (HHG, Ultrafast Optics) 与非绝热耦合动力学 (Non-adiabatic Dynamics)；
   - **核心算法自研**：深入掌握并独立实现 Sinc-DVR (离散变量表象法)、Split-Operator 分步算符谱方法、虚时间演化基态求解、吸收势边界 (CAP/PML) 及精确量子反应散射矩阵代数优化；
   - **AI for Science 全栈落地**：主导开发势能面 (PES) 自动化求解与机器学习拟合工具链，打通高精度从头算（PySCF / xTB / ASE）与神经网络（NN）主动学习拟合引擎，具备大型超算集群（Slurm / MPI 并行加速）百核作业工程化调度底蕴。
 
 - 💡 **业余探索：旺盛的好奇心与极客造物 (Passionate Maker & Explorer)**
-  - 在严谨的主业物理科研之余，编程与创造是我探索数字世界的最佳延伸。
+  - 在严谨的主业博士科研之余，编程与创造是我探索数字世界的最佳延伸。
   - 我对现代软件工程、多模态交互和移动端技术怀揣极大的自驱力，业余时间独立主导开发了**未来多模态自然人机交互生产力核心** (`FutureWork`)、**现代 Android 响应式音乐播放器** (`LunaMusic`)、**新型可变帧率视频格式** (`DynamicsVideo`) 等完备项目——具备一个人从算法设计、架构解耦、单元测试（400+ 项全绿）到 Linux / Android / Windows 全平台发行部署的完整闭环工程力。
 
 ---
