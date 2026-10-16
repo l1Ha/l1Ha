@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/badge/Degree-Ph.D.%20Candidate-purple?style=flat-square&logo=academia&logoColor=white" alt="Degree" />
   <img src="https://img.shields.io/badge/University-SUSTech-8B5CF6?style=flat-square&logo=academia&logoColor=white" alt="SUSTech" />
   <img src="https://img.shields.io/badge/Focus-Quantum%20Dynamics%20%7C%20AI4S-06B6D4?style=flat-square&logo=physics&logoColor=white" alt="Focus" />
-  <img src="https://img.shields.io/badge/Location-Shenzhen%2C%20China-3B82F6?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-10B981?style=flat-square&logo=gitbook&logoColor=white" alt="Open to Work" />
 </p>
 
@@ -135,12 +134,12 @@
 ## 📊 GitHub 研发活跃度 (Activity & Stats)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=l1Ha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l1Ha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=l1Ha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&custom_title=LI%20Hao%27s%20GitHub%20Stats&cache_bust=20261007" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l1Ha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_bust=20261007" width="48%" alt="Top Languages" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=l1Ha&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=l1Ha&theme=tokyonight&hide_border=true&cache_bust=20261007" width="97%" alt="GitHub Streak" />
 </p>
 
 ---
@@ -152,7 +151,6 @@
   - **AI for Science (AI4S) 算法研发专家** (物理神经网络、势能面拟合、深度学习加速科学计算)
   - **高性能计算 (HPC) 与物理仿真模拟工程师** (High-Performance Scientific Computing)
   - **跨界前沿技术 / 基础系统攻坚工程师**
-- 📍 **地点偏好**：深圳、北京、上海、杭州、远程合作 (Remote)
 - 🤝 **核心特质总结**：
   - **深厚数理科学底蕴**：物理理论功底扎实，精通复杂量子微分方程数值离散与微观演化算法；
   - **极客自驱力与全栈实现力**：业余时间自发打磨出多款覆盖多模态交互、Android 与媒体格式的工业级开源产品，学习与技术迁移能力极快；
